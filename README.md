@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=26&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=%E6%B0%B8%E7%94%B0+%E4%BE%86%E7%85%89+%2F+Kuren+Nagata;Go%E3%81%A7%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89%E9%96%8B%E7%99%BA%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99;%E5%85%AC%E7%AB%8B%E3%81%AF%E3%81%93%E3%81%A0%E3%81%A6%E6%9C%AA%E6%9D%A5%E5%A4%A7%E5%AD%A6+3%E5%B9%B4" alt="自己紹介" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KurenNagata/KurenNagata/main/assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KurenNagata/KurenNagata/main/assets/header-light.svg" />
+  <img alt="公立はこだて未来大学 システム情報科学部 情報アーキテクチャ学科 学部3年 永田 來煉 / Nagata Kuren" src="https://raw.githubusercontent.com/KurenNagata/KurenNagata/main/assets/header-light.svg" />
+</picture>
 
 ## 自己紹介
 
-- 公立はこだて未来大学 システム情報科学部 情報アーキテクチャ学科（高度ICTコース）3年
 - Go を使ったバックエンド開発が中心です
 - チーム開発ではリーダーとして、タスク管理やコードレビュー、スクラムの運営を担当しています
 
