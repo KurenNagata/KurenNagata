@@ -39,8 +39,7 @@ API をテーマにしたデザインのポートフォリオサイト。HTTP �
 ## GitHub の統計
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KurenNagata&show_icons=true&theme=tokyonight&hide_border=true&locale=ja" alt="GitHub の統計" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurenNagata&layout=compact&theme=tokyonight&hide_border=true&locale=ja" alt="よく使う言語" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=KurenNagata&theme=tokyonight&hide_border=true&locale=ja" alt="コントリビューションの統計" />
 </p>
 
 ## コントリビューション
