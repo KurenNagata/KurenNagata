@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KurenNagata/KurenNagata/main/assets/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KurenNagata/KurenNagata/main/assets/header-light.svg" />
-  <img alt="公立はこだて未来大学 システム情報科学部 情報アーキテクチャ学科 学部3年 永田 來煉 / Nagata Kuren" src="https://raw.githubusercontent.com/KurenNagata/KurenNagata/main/assets/header-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KurenNagata/KurenNagata/main/assets/header-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KurenNagata/KurenNagata/main/assets/header-light.svg?v=3" />
+  <img alt="公立はこだて未来大学 システム情報科学部 情報アーキテクチャ学科 学部3年 永田 來煉 / Nagata Kuren" src="https://raw.githubusercontent.com/KurenNagata/KurenNagata/main/assets/header-light.svg?v=3" />
 </picture>
 
 ## 自己紹介
