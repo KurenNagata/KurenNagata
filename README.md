@@ -24,10 +24,10 @@
 ### ミライケータイプロジェクト
 大学のプロジェクト学習。SHABET を含む複数サービスを開発するプロジェクトで、オープンキャンパス用のポスター・スライド制作や発表を担当しました。
 
-### HOPE 課題締切通知 Bot（個人開発）
+### [HOPE 課題締切通知 Bot](https://github.com/KurenNagata/hope-notifier)（個人開発）
 大学の学習管理システム（HOPE / Moodle）の未提出課題を、締切前に Discord へ通知する Bot。
 - 技術：Go／Docker／Linux サーバー（Debian）で常時稼働
-- 機能：朝・夜の定時通知（夜は当日残りと翌日締切の課題を通知）
+- 機能：朝・夜の定時通知（夜は当日残りと翌日締切の課題を通知）、Discord で依頼した時刻に知らせるリマインド機能
 - Claude（AI）を用いて開発
 
 ### [LearnCode](https://github.com/KurenNagata/LearnCode)（個人開発）
