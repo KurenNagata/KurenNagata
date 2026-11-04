@@ -34,7 +34,7 @@
 ### [LearnCode](https://github.com/KurenNagata/LearnCode)（個人開発）
 プログラミング言語を学ぶための学習アプリ。Claude（AI）を用いて開発しました。
 
-### ポートフォリオサイト（個人開発）
+### [ポートフォリオサイト](https://kurennagata.github.io/)（個人開発）
 API をテーマにしたデザインのポートフォリオサイト。HTTP メソッド風のラベルやエンドポイント風のナビゲーション、`profile.json` のタイピングアニメーションを取り入れています。Claude（AI）を用いて開発しました。
 
 ## GitHub の統計
